@@ -1,0 +1,16 @@
+model,step_type,total_samples,p50_latency_ms,p90_latency_ms,p95_latency_ms,p99_latency_ms,avg_latency_ms
+claude-sonnet,llm_call,81,777.0,1853.3,2504.2,3245.51,996.83
+claude-sonnet,retrieval,24,359.0,721.8,871.0,973.48,433.88
+claude-sonnet,tool_call,67,1629.5,9642.3,12985.95,20878.19,3517.1
+gemini-pro,llm_call,88,988.0,2450.8,3100.8,4289.32,1302.02
+gemini-pro,retrieval,27,228.5,560.0,779.85,892.33,307.56
+gemini-pro,tool_call,54,1756.0,9472.8,19199.5,31282.38,4099.44
+gpt-4o,llm_call,56,947.5,2020.8,2323.4,3077.68,1156.34
+gpt-4o,retrieval,14,385.0,624.4,633.3,639.46,399.43
+gpt-4o,tool_call,34,886.0,6217.2,10152.2,44757.46,3595.0
+llama-3-70b,llm_call,105,1849.5,4278.5,4822.5,8751.95,2296.98
+llama-3-70b,retrieval,27,276.5,560.6,608.8,674.15,329.81
+llama-3-70b,tool_call,66,1080.0,6800.0,9147.7,15033.28,2419.7
+mistral-large,llm_call,111,1330.5,3130.8,3761.75,4889.94,1630.65
+mistral-large,retrieval,35,319.5,494.0,543.75,652.5,344.2
+mistral-large,tool_call,81,1077.5,7592.6,13960.9,20424.86,2938.62

@@ -1,0 +1,2 @@
+scope,total_rows,total_raw_lines,total_malformed_lines,malformed_ratio,null_rate_prompt_tokens,null_rate_completion_tokens,null_rate_tool_name,null_rate_error_type,null_rate_finish_reason,null_rate_latency_ms
+all_columns,870,880,10,0.0114,0.3506,0.3506,0.0,0.0,0.0,0.0

@@ -1,0 +1,6 @@
+model,total_runs,total_prompt_tokens,total_completion_tokens,prompt_price_per_1m,completion_price_per_1m,prompt_cost_usd,completion_cost_usd,total_cost_usd,avg_cost_per_run_usd
+gpt-4o,1917,75686300,1979123,5.0,15.0,378.4315,29.6868,408.1183,0.212894
+claude-sonnet,2003,78079679,2135823,3.0,15.0,234.239,32.0373,266.2764,0.132939
+mistral-large,1982,81202641,2145494,2.0,6.0,162.4053,12.873,175.2782,0.088435
+gemini-pro,2042,75987215,2060207,1.25,5.0,94.984,10.301,105.2851,0.05156
+llama-3-70b,1960,75423475,2012243,0.8,0.8,60.3388,1.6098,61.9486,0.031606

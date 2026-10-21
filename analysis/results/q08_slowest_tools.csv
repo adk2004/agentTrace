@@ -1,0 +1,7 @@
+tool_name,total_calls,p95_latency_ms,avg_latency_ms,tool_total_latency_ms,pct_of_total_run_time
+code_exec,44,28414.4,9477.36,417004,0.2244
+web_search,57,19127.45,5583.93,318284,0.1713
+http_get,52,8338.8,3107.71,161601,0.0870
+sql_query,46,3110.0,1343.11,61783,0.0332
+file_read,52,575.6,298.29,15511,0.0083
+calculator,51,93.9,54.73,2791,0.0015

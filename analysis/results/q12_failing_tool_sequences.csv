@@ -1,0 +1,11 @@
+previous_tool,failing_tool,error_type,occurrence_count
+http_get,code_exec,invalid_args,2
+calculator,http_get,network_error,2
+sql_query,http_get,rate_limit,1
+sql_query,http_get,parse_error,1
+web_search,sql_query,network_error,1
+sql_query,calculator,timeout,1
+http_get,http_get,parse_error,1
+file_read,sql_query,rate_limit,1
+file_read,file_read,rate_limit,1
+web_search,code_exec,invalid_args,1
