@@ -1,12 +1,10 @@
-# AI-Trace BigData: Distributed Telemetry & Observability Pipeline for Multi-Turn AI Agents
+# AI-Trace: Distributed Telemetry & Observability Pipeline for Multi-Turn AI Agents
 
 [![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-3.3.6-red.svg)](https://hadoop.apache.org/)
 [![Hive](https://img.shields.io/badge/Apache%20Hive-3.1.3-yellow.svg)](https://hive.apache.org/)
 [![Java](https://img.shields.io/badge/Java-OpenJDK%208-blue.svg)](https://openjdk.org/)
 [![Maven](https://img.shields.io/badge/Build-Maven%203.6+-orange.svg)](https://maven.apache.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
-[![Constraint](https://img.shields.io/badge/ML%20Constraint-Zero%20ML%20(Pure%20Descriptive)-purple.svg)](#constraints--design-philosophy)
-
 > **Large-Scale Distributed Analysis of AI Agent Execution Traces and LLM Telemetry Logs**  
 > A production-grade, distributed big data telemetry pipeline built with **Apache Hadoop 3.3.6 (HDFS + YARN)**, **Java MapReduce**, and **Apache Hive 3.1.3 (ORC + Snappy)**. Designed specifically for low-overhead descriptive telemetry analysis of autonomous AI agents across tool invocations, token economics, latency percentiles, and multi-turn sessionization.
 
